@@ -4,6 +4,7 @@ Casks for my Mac apps.
 
 ```bash
 brew tap m-nabeegh/tap
+brew trust m-nabeegh/tap        # newer Homebrew asks you to trust a third-party tap first
 brew install --cask filemorrow
 brew install --cask nabbar
 ```
